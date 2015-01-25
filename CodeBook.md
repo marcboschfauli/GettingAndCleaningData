@@ -1,6 +1,6 @@
 Getting and Cleaning Data - Course Project Codebook
 =================================================
-This file describes the variables, the data, and any transformations or work that I have performed to clean up the data.  
+This file describes the variables, the data, and any transformations used to obtain and clean the data.  
 * The site from which the data was obtained:  
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones      
 The dataset used in the course project:  
